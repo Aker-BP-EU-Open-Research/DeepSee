@@ -66,6 +66,8 @@ The *DeepSee* model is trained on 4 Tesla T4 GPUs. Inference time for a single i
 
 Below we demonstrate inference performed on media released by the Norwegian Broadcasting Corporation (<a href="https://www.nrk.no/klima/xl/ned-i-dypet-1.16472301">NRK release</a>). Note that this video is not part of the training dataset.
 
+https://github.com/user-attachments/assets/bffbb086-8e6e-41e5-a86e-801efd39e525
+
 ### DeepSee with Photogrammetry     
 
 Usually, detection is carried out on video frames that only include the general location of the ROV. In areas of particular interest where high quality videos are available, frames can be stitched together into orthomosaics using photogrammetry. Object detection using the *DeepSee* model on such orthomosaics allows for pinpointing the location of individual organisms on the sea floor. The image below shows the exact coordinates of detected lifeforms using this technique.
