@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DeepSee
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ebbe H.
+    family-names: Hartz
+    affiliation: Aker BP
+  - given-names: Karthik H.
+    family-names: Iyer
+    affiliation: Bergwerk
+  - given-names: Camilla M.
+    family-names: Marnor
+    affiliation: Bergwerk
+  - given-names: Daniel W.
+    family-names: Schmid
+    affiliation: Bergwerk
+repository-code: 'https://github.com/Aker-BP-Open-Research/DeepSee'
