@@ -110,6 +110,10 @@ The results obtained from the *DeepSee* model can be used to generate high resol
 </table>
 <br>
 
+*DeepSee* enables the production of comprehensive benthic ecosystem maps with high spatial resolution. The following example demonstrates mapping marine species distribution over a small-scale area based on a ROV video track.  
+<img src="data/240930/images/detailed_map.png" width="100%" alt="Detailed map"/>
+
+
 ### Comparison with Other Data
 
 *DeepSee* has mapped approximately 500,000 individual life forms in the Norwegian Proposed Opening Area for Mineral Exploration. Below, we compare this data to [GBIF](https://gbif.org) and [OBIS](https://obis.org) data for the same region.
