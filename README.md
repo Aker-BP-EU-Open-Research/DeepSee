@@ -110,7 +110,7 @@ The results obtained from the *DeepSee* model can be used to generate high resol
 </table>
 <br>
 
-*DeepSee* enables the production of comprehensive benthic ecosystem maps with high spatial resolution. The following example demonstrates mapping marine species distribution over a small-scale area based on a ROV video track.  
+*DeepSee* enables the production of comprehensive benthic ecosystem maps with high spatial resolution. The following example demonstrates mapping marine species distribution over a small-scale area based on a ROV video track. Note that taxa are desribed by phylum and lowest posible taxanomical level. Fig A and B are the same area, just separating phyla.  
 <img src="data/240930/images/detailed_map.png" width="100%" alt="Detailed map"/>
 
 
